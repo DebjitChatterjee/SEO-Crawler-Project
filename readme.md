@@ -1,6 +1,6 @@
 This project entails the mechanisms of 'http' modules and the node js.
 
-This here is a crawler that can get into any webiste and extract the internal links from all of its webpages. This is essentially done to create an indexing of the pages to help with the search engine optimizations.
+This here is a crawler that can get into any website and extract the internal links from all of its webpages. This is essentially done to create an indexing of the pages to help with the search engine optimizations.
 
 The command line arguement to get the result is such - 
         
