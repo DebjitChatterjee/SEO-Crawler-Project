@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node --no-warnings index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jest/globals": "^29.5.0",
+    "@types/node": "^18.0.6",
+    "jsdom": "^21.1.1",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
